@@ -18,7 +18,7 @@ This project was developed entirely in Visual Studio Code and tested using Postm
 
  DELETE /books/:id — Remove a book from the list by ID.
 
-🛠 How It Works:
+ How It Works:
 Used Express to set up a server on port 3000.
 
 Created an in-memory array to store books ({id, title, author}).
